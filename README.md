@@ -1,5 +1,5 @@
-Python-Based Packet Sniffer 
-Capture packets. Read the network. Think like a SOC analyst — one packet at a time.
+# Python-Based Packet Sniffer 
+Capture packets. Read the network. Think like a SOC analyst, one packet at a time.
 
 
 What is this?
