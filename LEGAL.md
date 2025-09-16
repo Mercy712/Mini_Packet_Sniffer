@@ -23,7 +23,7 @@ This repository contains an educational network packet capture tool. It is provi
 - If you need clarification on legal use in your environment, consult your organization's legal/compliance team.
 
 ## Reporting problems
-If you discover vulnerabilities or unintended data exposure while testing this tool in an authorized environment, please contact the repository owner or your organization’s security team.
+If you discover vulnerabilities or unintended data exposure while testing this tool in an authorized environment, please contact me via http://www.linkedin.com/in/mercy-ikeh-8946482aa or the security team.
 
 ---
 
